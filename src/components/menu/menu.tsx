@@ -35,7 +35,7 @@ export const Menu = ({ className }: MenuProps) => {
         <div className={classNames(styles.root, className)}>
             <div className={styles.logo}>
                 <img src="https://i.imgur.com/zYa4iMN.png" className={styles.logoImg} />
-                <span className={styles.logoText}>Lamamovie</span>
+                <span className={styles.logoText}>MovieSocial</span>
             </div>
             <span className={styles.title}>Sort By</span>
             <hr className={styles.hr} />
